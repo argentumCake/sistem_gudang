@@ -15,7 +15,8 @@
             <td><input type="text" name="username"></td>
           </tr>
           <tr>
-            
+            <td>password</td>
+            <td><input type="password" name="password"></td>
           </tr>
         </table>
       </form>
