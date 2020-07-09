@@ -1,12 +1,8 @@
-<?php
-  include "header.php"
-?>
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Gudang</title>
+    <title></title>
   </head>
   <body>
     
